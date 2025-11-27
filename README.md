@@ -1,6 +1,6 @@
 # Country Data Management System
 
-Team 5 — Davinder, Alison, Esteban (
+Team 5 — Davinder, Alison, Esteban (Data Structures & Algorithms Course Project April 2024)
 
 ## Project Overview
 
